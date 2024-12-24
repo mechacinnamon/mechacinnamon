@@ -1,7 +1,4 @@
-# About Me
-- 👋 Hi, I’m Aletheon
-- 👀 I’m interested in EVERYTHING
-- 🌱 I’m currently learning I AM STILL BEGINNER I KNOW A BIT JAVA AND I AM LEARNING KOTLIN
-- 💞️ I’m looking to collaborate on ANYTHING THAT IS DOABLE WITH A LITTLE TEAM AND WILL MAKE SOME MONEY EVEN LITTLE MONEY
-- 📫 How to reach me | legal.asset.04@gmail.com
-- ⚡ Fun fact: IDK
+## GET TO KNOW ME!
+- 👋 Hi, I’m Aletheon a self-taught developer with a little university background but i left it because of a trauma i had.
+- 🌱 I’m currently learning kotlin and android development but i also have a little background in Java i studied in university.
+- 🥰 I love learning especially with some books and a youtube well-structured video series, a little less with websites or apps but i am trying to do that also.
